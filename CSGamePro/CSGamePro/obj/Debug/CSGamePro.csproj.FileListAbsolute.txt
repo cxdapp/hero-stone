@@ -1,0 +1,5 @@
+A:\CODE\AUnity\CSGame\CSGamePro\CSGamePro\bin\Debug\CSGamePro.dll
+A:\CODE\AUnity\CSGame\CSGamePro\CSGamePro\bin\Debug\CSGamePro.pdb
+A:\CODE\AUnity\CSGame\CSGamePro\CSGamePro\obj\Debug\CSGamePro.csprojResolveAssemblyReference.cache
+A:\CODE\AUnity\CSGame\CSGamePro\CSGamePro\obj\Debug\CSGamePro.dll
+A:\CODE\AUnity\CSGame\CSGamePro\CSGamePro\obj\Debug\CSGamePro.pdb

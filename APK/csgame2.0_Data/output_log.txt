@@ -1,0 +1,458 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   21.21.13.7682
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Data.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\Mono.Data.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\Mono.Data.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Configuration.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Configuration.dll into Unity Child Domain
+- Completed reload, in  0.313 seconds
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.178051 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 9b18 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.856657 ms
+Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 812.
+Total: 1.140912 ms (FindLiveObjects: 0.067329 ms CreateObjectMapping: 0.050497 ms MarkObjects: 0.846549 ms  DeleteObjects: 0.176125 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController.instance.bestScore :0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame2.0_Data\Managed\System.Xml.dll (this message is harmless)
+Failed to load 'A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll', expected x86 architecture, but was x64 architecture. You must recompile your plugin for x86 architecture.
+ 
+(Filename:  Line: 141)
+
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Failed to load 'A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll', expected x86 architecture, but was x64 architecture. You must recompile your plugin for x86 architecture.
+ 
+(Filename:  Line: 141)
+
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Failed to load 'A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll', expected x86 architecture, but was x64 architecture. You must recompile your plugin for x86 architecture.
+ 
+(Filename:  Line: 141)
+
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/.\libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+Fallback handler could not load library A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Mono/libA:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Database is not open
+  at Mono.Data.Sqlite.SqliteCommand.InitializeForReader () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) Mono.Data.Sqlite.SqliteCommand:ExecuteReader ()
+  at SQLiteHelper.ExecuteQuery (System.String queryString) [0x00000] in <filename unknown>:0 
+  at SQLiteHelper.CreateTable (System.String tableName, System.String[] colNames, System.String[] colTypes) [0x00000] in <filename unknown>:0 
+  at Compute.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+isPaused:False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+score10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 437)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 437)
+
+InvalidOperationException: Database is not open
+  at Mono.Data.Sqlite.SqliteCommand.InitializeForReader () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) Mono.Data.Sqlite.SqliteCommand:ExecuteReader ()
+  at SQLiteHelper.ExecuteQuery (System.String queryString) [0x00000] in <filename unknown>:0 
+  at SQLiteHelper.ReadFullTable (System.String tableName) [0x00000] in <filename unknown>:0 
+  at Compute.changePanel () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+I have saved score:10 and isSaved is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.913153 ms
+Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 840.
+Total: 1.174577 ms (FindLiveObjects: 0.076361 ms CreateObjectMapping: 0.055834 ms MarkObjects: 1.024727 ms  DeleteObjects: 0.016832 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I have got score:10 and isSaved is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController.instance.bestScore :10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Database is not open
+  at Mono.Data.Sqlite.SqliteCommand.InitializeForReader () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) Mono.Data.Sqlite.SqliteCommand:ExecuteReader ()
+  at SQLiteHelper.ExecuteQuery (System.String queryString) [0x00000] in <filename unknown>:0 
+  at SQLiteHelper.CreateTable (System.String tableName, System.String[] colNames, System.String[] colTypes) [0x00000] in <filename unknown>:0 
+  at Compute.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 437)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.973409 ms
+Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 840.
+Total: 1.044434 ms (FindLiveObjects: 0.074719 ms CreateObjectMapping: 0.045981 ms MarkObjects: 0.911416 ms  DeleteObjects: 0.011084 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I have got score:10 and isSaved is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController.instance.bestScore :10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Database is not open
+  at Mono.Data.Sqlite.SqliteCommand.InitializeForReader () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) Mono.Data.Sqlite.SqliteCommand:ExecuteReader ()
+  at SQLiteHelper.ExecuteQuery (System.String queryString) [0x00000] in <filename unknown>:0 
+  at SQLiteHelper.CreateTable (System.String tableName, System.String[] colNames, System.String[] colTypes) [0x00000] in <filename unknown>:0 
+  at Compute.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+score20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 437)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 437)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.134344 ms
+Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 840.
+Total: 0.977925 ms (FindLiveObjects: 0.071024 ms CreateObjectMapping: 0.046802 ms MarkObjects: 0.848602 ms  DeleteObjects: 0.011084 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+I have got score:0 and isSaved is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameController.instance.bestScore :20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+A:/CODE/AUnity/CSGame/APK/csgame2.0_Data/Plugins/sqlite3.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Database is not open
+  at Mono.Data.Sqlite.SqliteCommand.InitializeForReader () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) Mono.Data.Sqlite.SqliteCommand:ExecuteReader ()
+  at SQLiteHelper.ExecuteQuery (System.String queryString) [0x00000] in <filename unknown>:0 
+  at SQLiteHelper.CreateTable (System.String tableName, System.String[] colNames, System.String[] colTypes) [0x00000] in <filename unknown>:0 
+  at Compute.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+score10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+score20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+score30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'done_explosion_asteroid') is missing!
+ 
+(Filename:  Line: 1754)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 437)
+
+InvalidOperationException: Database is not open
+  at Mono.Data.Sqlite.SqliteCommand.InitializeForReader () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Sqlite.SqliteCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) Mono.Data.Sqlite.SqliteCommand:ExecuteReader ()
+  at SQLiteHelper.ExecuteQuery (System.String queryString) [0x00000] in <filename unknown>:0 
+  at SQLiteHelper.ReadFullTable (System.String tableName) [0x00000] in <filename unknown>:0 
+  at Compute.changePanel () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.120795 ms
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 531.
+Total: 1.254634 ms (FindLiveObjects: 0.062813 ms CreateObjectMapping: 0.045160 ms MarkObjects: 0.668372 ms  DeleteObjects: 0.477877 ms)
+

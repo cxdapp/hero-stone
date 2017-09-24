@@ -1,0 +1,37 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   21.21.13.7682
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Data.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\Mono.Data.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\Mono.Data.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Data.DataSetExtensions.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Data.DataSetExtensions.dll into Unity Child Domain
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Configuration.dll (this message is harmless)
+Loading A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Configuration.dll into Unity Child Domain
+- Completed reload, in  0.315 seconds
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\CODE\AUnity\CSGame\APK\csgame1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
